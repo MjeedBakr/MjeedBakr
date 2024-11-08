@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm ِAbdulmajeed Bakr</h1>
-<h3 align="center">A passionate project manager & backend developer</h3>
+<h3 align="center">🌱جِـيدو
+
+I build with Laravel, manage with Scrum, and grow with every challenge.
+Passionate about nature 🌳 and crafting clean, efficient code.
+
+Let’s plant ideas and watch them flourish 🌿.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjeedbakr&label=Profile%20views&color=0e75b6&style=flat" alt="mjeedbakr" /> </p>
 

@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ِAbdulmajeed Bakr</h1>
-<h3 align="center">🌱جِـيدو
+<h1 align="center">Hi 👋, I'm ِAbdulmajeed or جِـيدو</h1>
+<h3 align="center">🌱
 
-I build with Laravel, manage with Scrum, and grow with every challenge.
+I build with Laravel, manage with Agile, and grow with every challenge.
 Passionate about nature 🌳 and crafting clean, efficient code.
 
 Let’s plant ideas and watch them flourish 🌿.

@@ -12,11 +12,11 @@ Let’s plant ideas and watch them flourish 🌿.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjeedbakr" alt="mjeedbakr" /></a> </p>
 
-- 🌱 I’m currently learning **Advanced PHP, Laravel, Machine Learning**
+- 🌱 I’m currently learning **Just Learning**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdulmajeed-bakr/](https://www.linkedin.com/in/abdulmajeed-bakr/)
 
-- 💬 Ask me about **Laravel, Project Management**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **mjeed.bakr@gmail.com**
 

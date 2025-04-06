@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm ِAbdulmajeed or جِـيدو</h1>
+<h1 align="center">Hiya 👋, I'm Abdulmajeed</h1>
 <h3 align="center">🌱
 
-I build with Laravel, manage with Agile, and grow with every challenge.
+I build with Laravel, manage in my own way, and grow with every challenge.
 Passionate about nature 🌳 and crafting clean, efficient code.
 
 Let’s plant ideas and watch them flourish 🌿.
@@ -14,9 +14,9 @@ Let’s plant ideas and watch them flourish 🌿.
 
 - 🌱 I’m currently learning **Just Learning**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdulmajeed-bakr/](https://www.linkedin.com/in/abdulmajeed-bakr/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/abdoulmajid/](https://www.linkedin.com/in/abdoulmajid/)
 
-- 💬 Ask me about **Software Engineering**
+- 💬 Ask me about **Software Developer**
 
 - 📫 How to reach me **mjeed.bakr@gmail.com**
 

@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Bakr</h1>
-<h3 align="center">Backend Developer | Technical Project Manager</h3>
+<h3 align="center">Tech Project Manager</h3>
 
 <p align="center">
-Building scalable systems • Leading with clarity • Learning continuously 🚀
+Building great products • Leading with clarity • Learning continuously 🚀
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🧩 Backend Developer specialized in **Laravel & APIs**
-- 📊 Assistant Technical Project Manager @ Raqaya
+- 🧩 Softwarw Developer specialized in **Backend part**
+- 📊 Project Management Specialist @ Rakaya
 - 🎓 Computer Science Graduate
-- 🌱 Currently growing in **System Design, PMP, and Full-Stack Development**
+- 🌱 Currently growing in **System Design, PM, and coding**
 - ✍️ Sharing insights on [LinkedIn](https://www.linkedin.com/in/abdoulmajid/)
 - 📫 Reach me: **mjeed.bakr@gmail.com**
 
@@ -78,7 +78,7 @@ Building scalable systems • Leading with clarity • Learning continuously �
 - ✅ Building useful products
 - 📚 Preparing for PMP Certification
 - 🧠 Improving system design & coding skills
-- 🌍 Contributing to impactful tech projects
+- 🌍 Contributing to impactful tech projects & products
 
 ---
 

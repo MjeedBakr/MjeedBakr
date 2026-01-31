@@ -32,6 +32,14 @@ Building scalable systems • Leading with clarity • Learning continuously �
   </a>
 </p>
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## 🛠️ Tech Stack

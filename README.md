@@ -9,12 +9,17 @@ Building great products • Leading with clarity • Learning continuously 🚀
 
 ## 👨‍💻 About Me
 
-- 🧩 Softwarw Developer specialized in **Backend part**
+- 🧩 Tech Project Manager that like coding **Specially Backend part**
 - 📊 Project Management Specialist @ Rakaya
 - 🎓 Computer Science Graduate
 - 🌱 Currently growing in **System Design, PM, and coding**
 - ✍️ Sharing insights on [LinkedIn](https://www.linkedin.com/in/abdoulmajid/)
 - 📫 Reach me: **mjeed.bakr@gmail.com**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake.svg" />
+</picture>
 
 ---
 
@@ -31,14 +36,6 @@ Building great products • Leading with clarity • Learning continuously 🚀
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mjeedbakr/mjeedbakr/output/github-snake.svg" />
-</picture>
 
 ---
 
@@ -69,7 +66,6 @@ Building great products • Leading with clarity • Learning continuously 🚀
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mjeedbakr&show_icons=true&theme=radical)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=mjeedbakr&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mjeedbakr&layout=compact&theme=radical)
 
 ---
 
@@ -84,7 +80,7 @@ Building great products • Leading with clarity • Learning continuously 🚀
 
 ## ⚡ Fun Fact
 
-> I balance perfection in code with discipline in life — and still find time for gaming 🎮
+> I balance perfection in code with discipline in life, and still find time for gaming 🎮
 
 ---
 

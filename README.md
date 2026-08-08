@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulmajeed Bakr</h1>
-<h3 align="center">Tech Project Manager</h3>
+<h3 align="center">Product Manager</h3>
 
 <p align="center">
 Building great products • Leading with clarity • Learning continuously 🚀
@@ -9,10 +9,10 @@ Building great products • Leading with clarity • Learning continuously 🚀
 
 ## 👨‍💻 About Me
 
-- 🧩 Tech Project Manager that like coding **Specially Backend part**
+- 🧩 Product Manager that like coding and building **Specially Backend part**
 - 📊 Project Management Specialist @ Rakaya
-- 🎓 Computer Science Graduate
-- 🌱 Currently growing in **System Design, PM, and coding**
+- 🎓 B.Sc. Computer Science Graduate
+- 📚 M.Sc. **current Master's Student in Computer Science**
 - ✍️ Sharing insights on [LinkedIn](https://www.linkedin.com/in/abdoulmajid/)
 - 📫 Reach me: **mjeed.bakr@gmail.com**
 <picture>

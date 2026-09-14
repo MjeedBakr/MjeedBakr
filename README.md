@@ -9,7 +9,7 @@ Building great products • Leading with clarity • Learning continuously 🚀
 
 ## 👨‍💻 About Me
 
-- 🧩 Product Manager that like coding and building **Specially Backend part**
+- 🧩 Product Manager that like coding and building **Specially software part**
 - 📊 Project Management Specialist @ Rakaya
 - 🎓 B.Sc. Computer Science Graduate
 - 📚 M.Sc. **current Master's Student in Computer Science**
